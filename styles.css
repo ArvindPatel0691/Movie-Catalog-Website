@@ -1,0 +1,17 @@
+h3{
+    color: rgb(98, 198, 37);
+}
+.search{
+    padding: 5px;
+    padding-bottom: 5px;
+    margin: 2px;
+}
+.genre-filter{
+background-color: aqua;
+font-style: italic;
+}
+.movie-grid{
+    border-width: 2px;
+    border: 2px;
+    border-color: aqua;
+}
